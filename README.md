@@ -2,7 +2,7 @@
 
 ### I'm an educationalist, and a burgeoning technologist.
 
-- 🎓 Master of Education from Deakin University (February 2021)
+- 🎓 Master of Education, Deakin University (February 2021)
 - 🎓 Graduate of \_nology Full Stack Developer consultancy course (Novemember 2021)
 - 🌱 Currently studying for AWS Certified Cloud Practitioner exam
 - 🌱 Refining Java, React & Spring knowledge

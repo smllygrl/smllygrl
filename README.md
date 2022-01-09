@@ -7,7 +7,7 @@
 - 🌱 Currently studying for AWS Certified Cloud Practitioner exam
 - 🌱 Refining Java, React & Spring knowledge
 - 👀 Looking for work!
-- 💡 Interested in Artifical (or Assistive) Intelligence & it's impacts on economics and society
+- 💡 Interested in Artifical (or Assistive, depending on who you ask!) Intelligence & it's impacts on economics and society
 
 ### Languages & Tools
 

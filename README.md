@@ -1,4 +1,4 @@
-## Hello! I'm Natalie 👋
+## Hello! I'm Natalie 🌺
 
 ### I'm an educationalist, and a burgeoning technologist.
 

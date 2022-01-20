@@ -28,7 +28,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://pngset.com/images/github-icon-white-github-icon-black-background-symbol-logo-trademark-steering-wheel-transparent-png-842663.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
+</br> 
 ### Check me out!
 My [Portfolio](https://smllygrl.github.io/Portfolio/), which I am consistently updating & making more responsive! 
 My [Linked In](https://www.linkedin.com/in/natalie-lovibond-hodgson-b4232917a/).

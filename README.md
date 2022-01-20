@@ -37,4 +37,4 @@
 
 My [Portfolio](https://smllygrl.github.io/Portfolio/), which I am consistently updating & making more responsive.\
 My [Linked In](https://www.linkedin.com/in/natalie-lovibond-hodgson-b4232917a/).\
-Feel free to contact me with any feedback on my projects & any general queries: maefullstack@gmail.com\
+Feel free to contact me with any feedback on my projects & any general queries: maefullstack@gmail.com

@@ -1,6 +1,6 @@
 ## Hello! I'm Natalie 🌺
 
-### I'm an educationalist, and a burgeoning technologist.
+### I'm a burgeoning technologist & educationalist!
 
 - 🎓 Master of Education, Deakin University (February 2021)
 - 🎓 Graduate of \_nology Full Stack Developer consultancy course (Novemember 2021)

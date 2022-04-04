@@ -4,10 +4,8 @@
 
 - 🎓 Master of Education, Deakin University (February 2021)
 - 🎓 Graduate of \_nology Full Stack Developer consultancy course (Novemember 2021)
-- 🌱 Currently studying for AWS Certified Cloud Practitioner exam
-- 🌱 Refining Java, React & Spring knowledge
-- 👀 Looking for work!
 - 💡 Interested in Artifical (or Assistive, depending on who you ask!) Intelligence & it's impacts on economics and society
+- 🌱 Talk to me about ethical and values based Digital Services and Technology!
 
 ### Languages & Tools
 

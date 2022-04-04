@@ -6,6 +6,7 @@
 - 🎓 Graduate of \_nology Full Stack Developer consultancy course (Novemember 2021)
 - 💡 Interested in Artifical (or Assistive, depending on who you ask!) Intelligence & it's impacts on economics and society
 - 🌱 Talk to me about ethical and values based Digital Services and Technology!
+- ✨ Starting my journey in low code solutions (Pega)
 
 ### Languages & Tools
 

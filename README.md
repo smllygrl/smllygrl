@@ -5,8 +5,8 @@
 - 🎓 Master of Education, Deakin University (February 2021)
 - 🎓 Graduate of \_nology Full Stack Developer consultancy course (Novemember 2021)
 - 💡 Interested in Artifical (or Assistive, depending on who you ask!) Intelligence & it's impacts on economics and society
-- 🌱 Talk to me about ethical and values based Digital Services and Technology!
-- ✨ Currently working on my React skills!
+- 🌱 Talk to me about Humane Technology
+- ✨ Currently working on my React & TypeScript skills!
 
 ### Languages & Tools
 

@@ -6,7 +6,7 @@
 - 🎓 Graduate of \_nology Full Stack Developer consultancy course (Novemember 2021)
 - 💡 Interested in Artifical (or Assistive, depending on who you ask!) Intelligence & it's impacts on economics and society
 - 🌱 Talk to me about Humane Technology
-- ✨ Currently working on my React & TypeScript skills!
+- ✨ Currently working on my Java & Spring skills!
 
 ### Languages & Tools
 
